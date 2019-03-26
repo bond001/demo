@@ -10,5 +10,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "tenants":["tenant1", "tenant2"]
 }
