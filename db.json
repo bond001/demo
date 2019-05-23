@@ -11,5 +11,6 @@
   "profile": {
     "name": "typicode"
   },
-  "tenants":["tenant1", "tenant2"]
+  "tenants":["tenant1", "tenant2"],
+  "featureflags":[{"operation":0,"result":{"isSaved":True,"message":"","id":"a9be3909-b5c9-6ed6-1acb-6673c85a2db1","associatedFeatureFlag":{"id":"dd844531-106c-5096-41c8-2342d76f2029","name":"Test Flag","description":"Testing","state":1},"scope":3,"tenantId":"00000000-0000-0000-0000-000000000000","userId":"","environment":"01f84251-22b7-43ec-aad1-6cb0c516c639","eTag":"\"16003815-0000-0700-0000-5cd3dc400000\""}},{"operation":0,"result":{"isSaved":False,"message":"some error1","id":"a9be3909-b5c9-6ed6-1acb-6673c85a2db1","associatedFeatureFlag":{"id":"dd844531-106c-5096-41c8-2342d76f2029","name":"Test Flag1","description":"Testing1","state":1},"scope":3,"tenantId":"00000000-0000-0000-0000-000000000000","userId":"","environment":"01f84251-22b7-43ec-aad1-6cb0c516c639","eTag":"\"16003815-0000-0700-0000-5cd3dc400000\""}},{"operation":0,"result":{"isSaved":False,"message":"some error2","id":"a9be3909-b5c9-6ed6-1acb-6673c85a2db1","associatedFeatureFlag":{"id":"dd844531-106c-5096-41c8-2342d76f2029","name":"Test Flag2","description":"Testing2","state":1},"scope":3,"tenantId":"00000000-0000-0000-0000-000000000000","userId":"","environment":"01f84251-22b7-43ec-aad1-6cb0c516c639","eTag":"\"16003815-0000-0700-0000-5cd3dc400000\""}}]
 }
